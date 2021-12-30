@@ -13,7 +13,7 @@ and enhancements.
 
 ## Base Docker image
 
-* openjdk:17
+* debian:bullseye-slim
 
 
 ## How to use this image
