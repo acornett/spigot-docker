@@ -1,4 +1,4 @@
-FROM java:17
+FROM openjdk:17
 MAINTAINER Adam Cornett adam.cornett@gmail.com
 
 # grab gosu for easy step-down from root

@@ -13,7 +13,7 @@ and enhancements.
 
 ## Base Docker image
 
-* java:17
+* openjdk:17
 
 
 ## How to use this image
