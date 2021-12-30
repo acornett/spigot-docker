@@ -7,13 +7,13 @@
 
 This Docker image allows you to get a Spigot instance quickly, with minimal fuss.
 
-This image was based on the `dlord/minecraft` Docker Image, with a few changes
+This image was based on the `dlord/spigot-docker` Docker Image, with a few changes
 and enhancements.
 
 
 ## Base Docker image
 
-* java:8
+* java:17
 
 
 ## How to use this image
@@ -289,7 +289,7 @@ For commit standards, I follow a similar style to the Linux Kernel. See section
 1.2 of the [How to Get Your Change Into the Linux Kernel][]. For examples and
 tips, check out [this guide by Chris Beams][].
 
-[Github issue]: https://github.com/dlord/spigot-docker/issues
+[Github issue]: https://github.com/acornett/spigot-docker/issues
 [Minecraft EULA]: https://account.mojang.com/documents/minecraft_eula
 [How to Get Your Change Into the Linux Kernel]: https://www.kernel.org/doc/Documentation/SubmittingPatches
 [this guide by Chris Beams]: http://chris.beams.io/posts/git-commit/
